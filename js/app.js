@@ -1,1 +1,1 @@
-alert("Salom hammaga")
+// alert("Salom hammaga")

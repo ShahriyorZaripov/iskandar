@@ -1,3 +1,21 @@
 h1{
     color: lime;
 }
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    nav{
+        ul{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 20px;
+            li{
+                color: red;
+                text-decoration: none;
+                list-style: none;
+            }
+        }
+    }
+}
